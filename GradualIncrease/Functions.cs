@@ -41,4 +41,25 @@ public class Functions
 
         return beginningAmount;
     }
+
+
+    /// <summary>
+    /// Skaalaa halutulle välille luvun samassa suhteessa kuin annettu luku
+    /// </summary>
+    /// <param name="luku">Luku väliltä 0 ja 1</param>
+    /// <param name="alku">Haluttujen lukujen alku</param>
+    /// <param name="loppu">Haluttujen lukujen loppu</param>
+    /// <returns>Skaalattu luku halutulle välille</returns>
+    /// <example>
+    /// <pre name="test">
+    ///  Scaler(0.1,0,10) ~~~ 1;
+    ///  Scaler(1,1,6) ~~~ 6;
+    ///  Scaler(0.5,1,4) ~~~ 2.5;
+    ///  Scaler(0.2,-5,0) ~~~ -4;
+    /// </pre>
+    /// </example>
+    public static double Scaler(double luku, int alku, int loppu)
+    {
+        return alku + (loppu - alku) * luku;
+    }
 }
