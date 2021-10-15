@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "roN0Vl+slOVHTp93C7NiDWFtAdQVj9/ScJAgy9vciA+uqQQxEfPpsY0Vscp7/DAOUO4FfPTSxUXYxSChNMcLEw==",
+  "dgSpecHash": "2Sh+4ZN2abKvEeH8x0W2FINFFE8QNBZLW0kx7/NMg10FnGXCRAqLQVCfAY1jUmCZMI+dWiC2adCM9iZImKfy0g==",
   "success": true,
-  "projectFilePath": "/Users/attejokinen/Projects/misc/GradualIncrease/GradualIncrease/Functions.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/attej/projects/sekalaista/GradualIncrease/Functions.csproj",
+  "expectedPackageFiles": [
+    "/home/attej/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/attej/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/attej/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.20/microsoft.netcore.app.host.linux-x64.3.1.20.nupkg.sha512"
+  ],
   "logs": []
 }

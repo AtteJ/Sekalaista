@@ -1,0 +1,16 @@
+/home/attej/projects/sekalaista/PrimeNumbers/bin/Debug/net5.0/PrimeNumbers
+/home/attej/projects/sekalaista/PrimeNumbers/bin/Debug/net5.0/PrimeNumbers.deps.json
+/home/attej/projects/sekalaista/PrimeNumbers/bin/Debug/net5.0/PrimeNumbers.runtimeconfig.json
+/home/attej/projects/sekalaista/PrimeNumbers/bin/Debug/net5.0/PrimeNumbers.runtimeconfig.dev.json
+/home/attej/projects/sekalaista/PrimeNumbers/bin/Debug/net5.0/PrimeNumbers.dll
+/home/attej/projects/sekalaista/PrimeNumbers/bin/Debug/net5.0/ref/PrimeNumbers.dll
+/home/attej/projects/sekalaista/PrimeNumbers/bin/Debug/net5.0/PrimeNumbers.pdb
+/home/attej/projects/sekalaista/PrimeNumbers/obj/Debug/net5.0/PrimeNumbers.csproj.AssemblyReference.cache
+/home/attej/projects/sekalaista/PrimeNumbers/obj/Debug/net5.0/PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/attej/projects/sekalaista/PrimeNumbers/obj/Debug/net5.0/PrimeNumbers.AssemblyInfoInputs.cache
+/home/attej/projects/sekalaista/PrimeNumbers/obj/Debug/net5.0/PrimeNumbers.AssemblyInfo.cs
+/home/attej/projects/sekalaista/PrimeNumbers/obj/Debug/net5.0/PrimeNumbers.csproj.CoreCompileInputs.cache
+/home/attej/projects/sekalaista/PrimeNumbers/obj/Debug/net5.0/PrimeNumbers.dll
+/home/attej/projects/sekalaista/PrimeNumbers/obj/Debug/net5.0/ref/PrimeNumbers.dll
+/home/attej/projects/sekalaista/PrimeNumbers/obj/Debug/net5.0/PrimeNumbers.pdb
+/home/attej/projects/sekalaista/PrimeNumbers/obj/Debug/net5.0/PrimeNumbers.genruntimeconfig.cache
