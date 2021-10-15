@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{BA2FAAA9-9C9D-4E6C-9CAF-45BC5D3B4F4D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Functions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradualIncrease/Functions.cs">
+    <Files>
+      <File FileName="PrimeNumbers/PrimeNumbers.cs" Line="99" Column="67" />
+      <File FileName="GradualIncrease/Functions.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Functions" expanded="True">
+            <Node name="Functions" expanded="True">
+              <Node name="Functions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>keskiarvo - luvut[i] &lt; etaisyyskeskiarvosta</Value>
+          <Value>luvut[i] &lt; keskiarvo</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PrimeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

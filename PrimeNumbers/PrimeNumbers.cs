@@ -3,10 +3,10 @@ using System.Text;
 using System.Linq;
 using System.Collections.Generic;
 
-/// @author Omanimi
-/// @version Päivämäärä
+/// @author AtteJ
+/// @version 15.10.
 /// <summary>
-/// 
+/// Laskee ja listaa halutun maaran alkulukuja
 /// </summary>
 public class PrimeNumbers
 {
@@ -18,6 +18,7 @@ public class PrimeNumbers
         while (true)
         {
             int numberAmount = AskForNumber();
+
             if (numberAmount >= 0)
             {
                 CalculatePrimeNumbers(numberAmount);
@@ -31,6 +32,10 @@ public class PrimeNumbers
     }
 
 
+    /// <summary>
+	/// Kysyy kayttajalta kuinka monta alkulukua listataan ja tarkistaa onko syote kokonaisluku
+	/// </summary>
+	/// <returns>Kayttajan syottaman kokonaisluku</returns>
     public static int AskForNumber()
     {
         Console.Write("How many prime numbers are printed? ");
@@ -46,10 +51,17 @@ public class PrimeNumbers
         return -1;
     }
 
-    public static void CalculatePrimeNumbers(int numbers)
+
+    /// <summary>
+	/// Laskee alkulukuja ja listaa ne
+	/// </summary>
+	/// <param name="numbers">Kuinka monta alkulukua listataan</param>
+    public static List<int> CalculatePrimeNumbers(int numbers)
     {
         int addedNumbers = 0;
         int i = 1;
+
+        List<int> primeNumbers = new List<int>();
         
         while (addedNumbers <= numbers)
         {
@@ -58,6 +70,9 @@ public class PrimeNumbers
                 Console.WriteLine(i);
                 addedNumbers++;
                 i++;
+
+                primeNumbers.Add(i);
+
                 continue;
             }
 
@@ -65,9 +80,13 @@ public class PrimeNumbers
             {
                 Console.WriteLine(i);
                 addedNumbers++;
+
+                primeNumbers.Add(i);
             }
 
             i++;
         }
+
+        return primeNumbers;
     }
 }

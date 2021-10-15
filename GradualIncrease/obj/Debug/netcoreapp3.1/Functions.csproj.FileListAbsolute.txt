@@ -12,3 +12,16 @@
 /home/attej/projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/GradualIncrease.dll
 /home/attej/projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/GradualIncrease.pdb
 /home/attej/projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/Functions.genruntimeconfig.cache
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/bin/Debug/netcoreapp3.1/GradualIncrease.deps.json
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/bin/Debug/netcoreapp3.1/GradualIncrease.runtimeconfig.json
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/bin/Debug/netcoreapp3.1/GradualIncrease.runtimeconfig.dev.json
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/bin/Debug/netcoreapp3.1/GradualIncrease.dll
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/bin/Debug/netcoreapp3.1/GradualIncrease.pdb
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/Functions.csproj.AssemblyReference.cache
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/Functions.AssemblyInfoInputs.cache
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/Functions.AssemblyInfo.cs
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/Functions.csproj.CoreCompileInputs.cache
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/GradualIncrease.dll
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/GradualIncrease.pdb
+/Users/attejokinen/Projects/sekalaista/GradualIncrease/obj/Debug/netcoreapp3.1/Functions.genruntimeconfig.cache
