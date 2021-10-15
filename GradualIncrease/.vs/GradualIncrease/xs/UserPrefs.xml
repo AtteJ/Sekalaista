@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5077E2FF-1CAF-4FC4-960E-6F3D7741EA2B}|Default">
+  <MonoDevelop.Ide.ItemProperties.GradualIncrease FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradualIncrease/GradualIncrease.cs">
+    <Files>
+      <File FileName="GradualIncrease/GradualIncrease.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GradualIncrease" expanded="True">
+            <Node name="GradualIncrease" expanded="True">
+              <Node name="GradualIncrease.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
