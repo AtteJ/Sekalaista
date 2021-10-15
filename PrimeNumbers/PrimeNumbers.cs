@@ -15,23 +15,59 @@ public class PrimeNumbers
     /// </summary>
     public static void Main()
     {
-        Console.Write("How many prime numbers are printed? ");
-        int numberAmount = Int32.Parse(Console.ReadLine());
+        while (true)
+        {
+            int numberAmount = AskForNumber();
+            if (numberAmount >= 0)
+            {
+                CalculatePrimeNumbers(numberAmount);
+                break;
+            }
+            
+            Console.WriteLine("Wasn't a positive whole number, try again");
+        }
 
-        CalculatePrimeNumbers(numberAmount);
+
     }
 
 
+    public static int AskForNumber()
+    {
+        Console.Write("How many prime numbers are printed? ");
+        string numberAmount = Console.ReadLine();
+
+        Console.WriteLine();
+        
+        if (int.TryParse(numberAmount, out int value))
+        {
+            return Int32.Parse(numberAmount);
+        }
+
+        return -1;
+    }
+
     public static void CalculatePrimeNumbers(int numbers)
     {
-        for (int i = 0; i < numbers; i++)
+        int addedNumbers = 0;
+        int i = 1;
+        
+        while (addedNumbers <= numbers)
         {
-            if (i == 1 || i == 3 || i == 5 || i == 7)
+            if (i == 1 || i == 3 || i == 5 || i == 7 || i == 11)
             {
                 Console.WriteLine(i);
+                addedNumbers++;
+                i++;
                 continue;
             }
-            if (i%2 != 0 && i%3 != 0 && i%5 != 0 && i%7 != 0) Console.WriteLine(i);
+
+            if (i % 2 != 0 && i % 3 != 0 && i % 5 != 0 && i % 7 != 0 && i % 11 != 0)
+            {
+                Console.WriteLine(i);
+                addedNumbers++;
+            }
+
+            i++;
         }
     }
 }
