@@ -20,7 +20,8 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://kurssit.it.jyu.fi/npo/ComTest/VSMac-8.5/": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

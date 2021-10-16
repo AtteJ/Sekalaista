@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Text;
-using System.Linq;
-using System.Collections.Generic;
 
 /// @author Omanimi
 /// @version Päivämäärä
@@ -20,7 +17,7 @@ public class Functions
         double iterations = 5;
         double amount = 25;
         
-        System.Console.WriteLine(GradualIncrease(addedAmount, decreaseFactor, iterations, amount));
+        Console.WriteLine(GradualIncrease(addedAmount, decreaseFactor, iterations, amount));
     }
 
     /// <summary>
