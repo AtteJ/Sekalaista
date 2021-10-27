@@ -9,7 +9,7 @@ using System.Collections.Generic;
 public class PrimeNumbers
 {
     /// <summary>
-    /// Listaa halutun maaran alkulukuja
+    /// Listaa halutun maaran alkulukuja 
     /// </summary>
     public static void Main()
     {
