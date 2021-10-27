@@ -9,7 +9,7 @@ public class Functions
 {
     /// <summary>
     /// Calculates addition after decreasing by a factor. E.g. adding 25ml juice concentrate to water glass after drinking 25%. 
-    /// </summary>
+    /// </summary> 
     public static void Main()
     {
         double addedAmount = 25;
